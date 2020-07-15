@@ -18,6 +18,7 @@ fs.readFile('..\\app.java', function (err, data) {
     console.log(data.toString());
 });
 
+
 // 终端打印如下信息
 console.log('Server running at http://127.0.0.1:8888/');
 console.log("node app !");
